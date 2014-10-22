@@ -7,7 +7,7 @@ Steps to take to execute the script and generate the output:
 <ol>
 <li> source("run_analysis.R") </li>
 <li> CourseProjectGettingCleaningData() </li>
- 
+</ol> 
 ## Getting Data (Extraction):
 
 * The script will read features.txt and pass it to variable <em>columnnames</em>.
