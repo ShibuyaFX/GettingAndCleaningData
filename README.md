@@ -3,7 +3,7 @@
 The run_analysis.R script has to be placed in the working directory.
 The data files (features.txt, X_train.txt, subject_train.txt, y_train.txt, X_test.txt, subject_test.txt and y_test.txt) are to be extracted and placed in the same working directory as the script run_analysis.R for the script to execute successfully and generate the desired output.
 
-Steps to take to execute the script and generate the output:
+The following codes have to be entered into RStudio or R Console in order to execute the script and generate the output:
 <ol>
 <li> source("run_analysis.R") </li>
 <li> CourseProjectGettingCleaningData() </li>
@@ -39,4 +39,4 @@ In order to view the dataset on rstudio, the following code can be used:
 * courseproject <- read.table("CourseProjectSubmission.txt", header = TRUE)
 * View(courseproject)
  
-The above code has been included in the script so that upon the execution of the script, the generated output will be shown in rstudio. 
+The above codes have been included in the script so that upon the execution of the script, the generated output will be shown in rstudio. 
